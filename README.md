@@ -3,6 +3,9 @@ New improved Android app : Multiple weight unit conversions.  Flexible drop down
 
 ## Android_App_WeightConverter
 <img align ="right" src="weightconverter2.png" width="400">
+<img align ="right" src="weightconverter2_1.png" width="400">
+
+
 
 ### Description
 The app converts the weight input from one weight unit to another wieght unit.  The units availabe are oz, lb, gram, kgram, and ton.
